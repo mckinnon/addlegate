@@ -2,7 +2,7 @@
 An adblock blocker written in PHP &amp; JS
 
 ## Demonstration
-Try the demo at [https://badpeer.net/addlegate](badpeer.net/addlegate). You can block it once, but can you teach Adblock to get it every time the page reloads? (If so, totally tell me how 'cause you have magic.)
+Try the demo at [badpeer.net/addlegate](https://badpeer.net/addlegate). You can block it once, but can you teach Adblock to get it every time the page reloads? (If so, totally tell me how 'cause you have magic.)
 
 ## Getting Started
 
