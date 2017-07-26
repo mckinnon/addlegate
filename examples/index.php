@@ -4,10 +4,10 @@
 <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8"> 
     <meta charset="utf-8">
-    <title>Addlegate by BadPeer.net</title>
+    <title>Addlegate: yet another adblocker blocker</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="description" content="Addlegate is a revenue-protection SaaS which frustrates AdBlocker-enabled web browsers." />
-    <meta name="google-site-verification" content="CdCkYkgdDsrzpJwH7KqJnZxQRlhD--ItZs-qaoXwzS0" />
+    <meta name="google-site-verification" content="PVpU8IJSg89TZgmU6m6qp5Ekv7jFsdsPEaeagQssuuU" />
     <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css" rel="stylesheet">
     <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css" type="text/css" rel="stylesheet">
 	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.0/gh-fork-ribbon.min.css" />
@@ -42,7 +42,7 @@
 
         <div class="col-lg-12 text-center v-center" style="padding-bottom: 39pt;">
 		    
-		    <a href="https://badpeer.net/adlocker" class="logo center-block"></a>
+		    <a href="https://opendna.com/addlegate" class="logo center-block"></a>
             <h1>Addlegate: yet another adblocker blocker</h1>
 		</div>
 	
